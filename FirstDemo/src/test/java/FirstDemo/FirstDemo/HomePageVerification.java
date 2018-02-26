@@ -5,7 +5,7 @@ public class HomePageVerification {
 	
 	@Test
 	public void verifyGooglePageTittle() {
-		System.out.println(We are in verifyGooglePageTittle);
+		System.out.println("We are in verifyGooglePageTittle");
 	}
 	
 	
